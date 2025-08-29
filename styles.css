@@ -9,6 +9,8 @@ header {
     padding: 20px;
     font-size: 32px;
     color: rgb(228, 92, 42);
+
+    font-family: "Fascinate Inline", system-ui;
 }
 
 .chamada{
